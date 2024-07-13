@@ -1,0 +1,6 @@
+Naming Conventions
+1.Class names should start with an uppercase letter.
+2.Class names should not start with a number.
+3.Class names can contain underscores (_).
+4.Special characters are not allowed in class names.
+5.Class names can contain numbers.

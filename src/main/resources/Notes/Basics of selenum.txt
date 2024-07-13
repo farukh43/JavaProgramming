@@ -1,0 +1,19 @@
+ 1. What is Selenium?
+   - Selenium is a web-based automation tool/library.
+   - It was originally developed by Jason Huggins in 2004 at ThoughtWorks Company.
+   - Selenium is open source.
+   - Selenium consists of multiple components: IDE, WebDriver, and Grid.
+ 
+ Advantages of Selenium:
+1. Open Source and Free: Selenium is an open-source tool, which means it's freely available for use.
+2. Multiple Operating Systems: Selenium supports multiple operating systems (Windows, macOS, Linux).
+3. Supports Multiple Browsers: Selenium can automate testing across various web browsers (Chrome, Firefox, Edge, etc.).
+4. Multiple Language Support: You can write Selenium scripts in different programming languages (Java, Python, C#, Ruby, JavaScript, etc.).
+5. Integration with Third-Party Tools: Selenium can be integrated with other tools and frameworks.
+
+ Disadvantages/Limitations of Selenium:
+1. Cannot Support Windows-Based Applications: Selenium cannot automate Windows-based applications (e.g., AutoIt, Sikuli, Robot API).
+2. Reporting Not Supported: Selenium lacks built-in reporting capabilities (e.g., TestNG, Extent Reports).
+3. Cannot Support Excel Files: Selenium does not directly support working with Excel files (e.g., Apache POI).
+4. Graphs and Captcha Handling: Selenium faces challenges in handling graphs and captchas.
+
