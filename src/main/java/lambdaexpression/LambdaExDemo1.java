@@ -23,6 +23,7 @@ public class LambdaExDemo1 {
 
 		Cab cab=()->System.out.println("Ola cab is booked");
 		cab.bookCab();
+		
 	}
 
 }
