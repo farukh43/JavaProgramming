@@ -9,7 +9,7 @@ public class EvenOrOddNumber {
 		if (num % 2 == 0) {
 			System.out.println("Even Number");
 		} else {
-			System.out.println("Even Number");
+			System.out.println("Not Even Number");
 		}
 
 	}

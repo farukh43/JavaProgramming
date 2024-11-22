@@ -4,7 +4,7 @@ public class MultipleStatements {
 
 	public static void main(String[] args) {
 		
-		/*
+		
 		if(false)
 		{
 			System.out.println(1);
@@ -13,7 +13,7 @@ public class MultipleStatements {
 		{
 			System.out.println(2);
 		}
-		*/
+		
 		
 		if(true)
 		{
