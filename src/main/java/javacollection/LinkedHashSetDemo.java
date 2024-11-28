@@ -3,7 +3,6 @@
  */
 package javacollection;
 
-import java.util.HashSet;
 import java.util.LinkedHashSet;
 
 /**

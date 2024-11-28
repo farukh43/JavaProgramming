@@ -1,6 +1,5 @@
 package javacollection;
 
-import java.util.Iterator;
 import java.util.PriorityQueue;
 
 public class QueueDemo {

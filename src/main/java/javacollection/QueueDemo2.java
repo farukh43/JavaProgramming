@@ -1,8 +1,6 @@
 package javacollection;
 
-import java.util.Iterator;
 import java.util.LinkedList;
-import java.util.PriorityQueue;
 
 public class QueueDemo2 {
 //This is for queue concept explaination

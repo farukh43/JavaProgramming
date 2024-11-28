@@ -1,9 +1,8 @@
 package assignments;
 
 public class AssignmentsToDo {
-
-	public static void main(String[] args) {
-		
+	
+public static void main (String [] args) {
 		/*
 		Assignments
 		-----------
@@ -77,7 +76,5 @@ public class AssignmentsToDo {
 *
 *
 */
-
-	}
-
+}
 }
