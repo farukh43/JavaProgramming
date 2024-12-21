@@ -18,7 +18,7 @@ public class StreamMethodsDemo8 {
 
 	        for (String item : finalList) {
 	            System.out.println(item);
-	        }
+	        } 
 	    }
 	}
 
