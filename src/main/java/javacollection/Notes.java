@@ -3,7 +3,7 @@ package javacollection;
 public class Notes {
 
 	/*
-	 * LinedList
+	 * LinkedList
 	 * ------
 	 * Linked list is preferred when we have Insertion and deletion operation
 	 * It is Linked Doubly - First element will be null last element will null all other elements will be linked

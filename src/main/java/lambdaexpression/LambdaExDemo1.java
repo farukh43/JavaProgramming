@@ -5,7 +5,7 @@ interface Cab {
 	public void bookCab();
 }
 
-//withoit implemention the below cade we can write labda expression
+//withoit implemention the below code we can write labda expression
 //class Ola implements Cab {
 //
 //	// Traditional way
