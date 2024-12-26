@@ -4,6 +4,7 @@ public class DataTypesDemo {
 
 	public static void main(String[] args) {
 		/*Data Types
+
 		 * Primitive Data Types:
 		byte, short, int, long: Represent whole numbers without decimal points.
 		float, double: Represent decimal numbers (floating-point).
