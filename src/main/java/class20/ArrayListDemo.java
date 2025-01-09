@@ -92,6 +92,7 @@ public class ArrayListDemo {
 		//remove all the elements/clear
 		mylist.clear();
 		System.out.println("Is arraylist empty "+ mylist.isEmpty());//true
+		//demo to shahana
 		
 				
 	}
