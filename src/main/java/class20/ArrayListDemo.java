@@ -93,7 +93,7 @@ public class ArrayListDemo {
 		mylist.clear();
 		System.out.println("Is arraylist empty "+ mylist.isEmpty());//true
 		//demo to shahana
-		
+		//de
 				
 	}
 
